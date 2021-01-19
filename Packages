@@ -1,0 +1,14 @@
+
+Package: com.9STUDiO.Boom
+Version: 1.0.0
+Section: Themes
+Maintainer: 9STUDiO <lukman.shaikh@gmail.com>
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/com.9STUDiO.Boom.deb
+Size: 1551280 
+MD5sum: 645d9336c06b476f177d9944a080f0fe
+Description: Boom comic theme.
+Name: Boom
+Author: 9STUDiO <lukman.shaikh@gmail.com>
+Depiction: Boom comic theme
